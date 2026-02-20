@@ -25,3 +25,5 @@ npm run dev
 
 ## Demo
 [Acesse o app aqui](https://shopping-planner-nextjs.vercel.app/)
+
+![Home Page](./screenshots/home.png)
